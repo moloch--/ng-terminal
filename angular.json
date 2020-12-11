@@ -167,5 +167,8 @@
       }
     }
   },
-  "defaultProject": "ng-terminal-app"
+  "defaultProject": "ng-terminal-app",
+  "cli": {
+    "analytics": false
+  }
 }
